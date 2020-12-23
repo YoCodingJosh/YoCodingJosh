@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Josh and I'm a simple dude: I like writing code and I like watching anime.
+I'm Josh and I'm a simple dude: I like writing code and I like watching anime. My profile pic is Yu Ishigami from Kaguya-sama: Love is War.
 
 I write code using C++, JavaScript, C#, Java, and Python.
 
 - 🔭 I’m currently working on:
   * MyAnimeList stats app using Node/Express
   * A game using C#/MonoGame
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
   * Rust
   * GraphQL
   * iOS app dev (Swift/Obj-C)
