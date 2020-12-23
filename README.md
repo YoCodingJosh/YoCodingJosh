@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm Josh and I'm a simple dude: I like writing code and I like watching anime.
+
+I write code using C++, JavaScript, C#, Java, and Python.
+
+- 🔭 I’m currently working on:
+  * MyAnimeList stats app using Node/Express
+  * A game using C#/MonoGame
+- 🌱 I’m currently learning
+  * Rust
+  * GraphQL
+  * iOS app dev (Swift/Obj-C)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=buefy&layout=compact)
+
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
