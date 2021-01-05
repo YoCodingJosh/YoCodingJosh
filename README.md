@@ -6,7 +6,7 @@ I write code primarily using C++, JavaScript, C#, Java, and Python.
 
 - 🔭 I’m currently working on:
   * MyAnimeList stats app using Node/Express
-  * A game using C#/MonoGame
+  * A game using C#/MonoGame or C++/SDL/OpenGL (haven't decided yet)
 - 🌱 I’m currently learning:
   * Rust
   * GraphQL
