@@ -6,12 +6,14 @@ I write code primarily using C++, JavaScript, C#, Java, and Python.
 
 - 🔭 I’m currently working on:
   * MyAnimeList stats app using Node/Express
+    * Along with refactoring its frontend to use Angular instead of jQuery :lol:
   * A game using C#/MonoGame or C++/SDL/OpenGL (haven't decided yet)
 - 🌱 I’m currently learning:
-  * Rust
-  * GraphQL
-  * iOS app dev (Swift/Obj-C)
+  * Angular
+  * TypeScript
+  * AWS
   * Japanese
+  * Rust
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=buefy&layout=compact)
 
