@@ -15,7 +15,7 @@ I write code primarily using C++, JavaScript, C#, Java, and Python.
   * Japanese
   * Rust
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=buefy&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=tokyonight&layout=compact)
 
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
