@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey hey! 👋
 
 I'm Josh and I'm a simple dude: I like writing code and I like watching anime.
 
@@ -6,7 +6,7 @@ I write code primarily using C++, JavaScript, C#, Java, and Python.
 
 - 🔭 I’m currently working on:
   * MyAnimeList stats app using Node/Express
-    * Along with refactoring its frontend to use Angular instead of jQuery :lol:
+    * Along with refactoring its frontend to use Angular instead of jQuery 😂
   * A game using C#/MonoGame or C++/SDL/OpenGL (haven't decided yet)
 - 🌱 I’m currently learning:
   * Angular
