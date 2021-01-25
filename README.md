@@ -13,7 +13,7 @@ I write code primarily using C++, JavaScript, C#, and Java.
 - 🌱 I’m currently learning:
   * Angular with TypeScript
   * ASP.NET (both Core and Framework)
-    * I'm already know ASP.NET, but I just need to get reacquainted with it.
+    * I'm already familiar with ASP.NET, but I just need to get reacquainted with it.
   * iOS with Swift
   * Japanese
   * Rust
