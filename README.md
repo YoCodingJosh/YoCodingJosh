@@ -1,24 +1,22 @@
 ### Hey hey! 👋
 
-I'm Josh and I'm a simple dude: I like writing code and I like watching anime.
+I'm Josh and I'm a simple dude: I like writing code and watching anime.
 
-I work at @ArtisanTechGroup as a software engineer
+I work at [@ArtisanTechGroup](https://github.com/ArtisanTechGroup) as a software engineering consultant.
 
 I write code primarily using C++, JavaScript, C#, and Java.
 
 - 🔭 I’m currently working on:
   * MyAnimeList stats app using Node/Express
-    * Along with refactoring its frontend to use Angular instead of jQuery 😂
+    * Along with refactoring its frontend to use a more modern framework rather than jQuery 😂
   * A game using C#/MonoGame or C++/SDL/OpenGL (haven't decided yet)
 - 🌱 I’m currently learning:
   * Angular with TypeScript
-  * ASP.NET (both Core and Framework)
-    * I'm already familiar with ASP.NET, but I just need to get reacquainted with it.
   * iOS with Swift
   * Japanese
   * Rust
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=tokyonight&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=tokyonight&layout=compact&langs_count=8)
 
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
