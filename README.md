@@ -7,11 +7,9 @@ I work at [@ArtisanTechGroup](https://github.com/ArtisanTechGroup) as a software
 I write code primarily using C++, JavaScript, C#, and Java.
 
 - 🔭 I’m currently working on:
-  * MyAnimeList stats app using Node/Express
-    * Along with refactoring its frontend to use a more modern framework rather than jQuery 😂
-  * A game using C#/MonoGame or C++/SDL/OpenGL (haven't decided yet)
+  * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
+  * A game using C++ with SDL2
 - 🌱 I’m currently learning:
-  * Angular with TypeScript
   * iOS with Swift
   * Japanese
   * Rust
