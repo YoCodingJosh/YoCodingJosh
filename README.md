@@ -2,8 +2,6 @@
 
 I'm Josh and I'm a simple dude: I like writing code and watching anime.
 
-I work at [@ArtisanTechGroup](https://github.com/ArtisanTechGroup) as a software engineering consultant.
-
 I write code primarily using C++, JavaScript, C#, and Java.
 
 - 🔭 I’m currently working on:
