@@ -5,8 +5,8 @@ I'm Josh and I'm a simple dude: I like writing code and watching anime.
 I write code primarily using C++, JavaScript, C#, and Java.
 
 - 🔭 I’m currently working on:
-  * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
   * A game using C++ with SDL2
+  * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
 - 🌱 I’m currently learning:
   * iOS with Swift
   * Japanese
