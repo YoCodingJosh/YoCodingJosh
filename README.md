@@ -9,6 +9,7 @@ I write code primarily using C++, JavaScript, C#, and Java.
   * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
 - 🌱 I’m currently learning:
   * iOS with SwiftUI
+  * Ruby
   * Japanese
   * Rust
 
