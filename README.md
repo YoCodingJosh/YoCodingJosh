@@ -10,6 +10,7 @@ I write code primarily using C++, JavaScript, C#, and Java.
 - 🌱 I’m currently learning:
   * iOS with SwiftUI
   * Ruby
+    * and Rails
   * Japanese
   * Rust
 
