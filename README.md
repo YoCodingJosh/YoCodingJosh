@@ -5,7 +5,7 @@ I'm Josh and I'm a pretty simple dude: I like writing code and watching anime.
 I write code primarily using C++, JavaScript, C#, and Java.
 
 - 🔭 I’m currently working on:
-  * A game using C# and FNA
+  * A game using C# and FNA (using .NET 6!)
   * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
 - 🌱 I’m currently learning:
   * iOS with SwiftUI
