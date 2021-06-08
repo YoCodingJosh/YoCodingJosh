@@ -1,13 +1,14 @@
 ### Yo! 👋
 
-I'm Josh and I'm a pretty simple dude: I like writing code and watching anime.
+I'm Josh, I'm a software engineering consultant.
 
 I write code primarily using C#, JavaScript, C/C++, and Java.
 
 - 🔭 I’m currently working on:
   * A game using C# and FNA (using .NET 6!)
   * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
-    * kinda on the backburner
+    * on the backburner
+  * AniList companion app (still in planning phase)
 - 🌱 I’m currently learning:
   * iOS with SwiftUI
   * Angular
