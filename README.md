@@ -5,7 +5,7 @@ I'm Josh, I'm a software engineering consultant.
 I write code primarily using C#, JavaScript, C/C++, and Java.
 
 - 🔭 I’m currently working on:
-  * A game using C# and FNA (using .NET 6!)
+  * A game using C# and FNA (using .NET 6.0)
   * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
     * on the backburner
   * AniList companion app (still in planning phase)
