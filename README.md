@@ -5,16 +5,15 @@ I'm Josh, I'm a software engineering consultant.
 I write code primarily using C#, JavaScript, C/C++, and Java.
 
 - 🔭 I’m currently working on:
-  * A game using C# and FNA (using .NET 6.0)
+  * A game using C# and FNA (using .NET 6.0 and Visual Studio 2022)
   * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
     * on the backburner
   * AniList companion app (still in planning phase)
 - 🌱 I’m currently learning:
-  * iOS with SwiftUI
   * Angular
-  * Ruby
-    * and Rails
   * Japanese
+  * Ruby/Rails
+  * iOS with SwiftUI
   * Rust
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=tokyonight&layout=compact&langs_count=8)
