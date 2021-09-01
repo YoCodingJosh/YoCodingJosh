@@ -6,11 +6,7 @@ I write code primarily using C#, JavaScript, C/C++, and Java.
 
 - 🔭 I’m currently working on:
   * A game using C# and FNA (using .NET 6.0 and Visual Studio 2022)
-  * MyAnimeList stats/metrics app using Node.js with Express ([repo](https://github.com/YoCodingJosh/anime_stats))
-    * on the backburner
-  * AniList companion app (still in planning phase)
 - 🌱 I’m currently learning:
-  * Angular
   * Japanese
   * Ruby/Rails
   * iOS with SwiftUI
