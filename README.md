@@ -6,6 +6,7 @@ I write code primarily using C#, JavaScript, C/C++, and Java.
 
 - 🔭 I’m currently working on:
   * A game using C# and FNA (using .NET 6.0 and Visual Studio 2022)
+  * A project, [@oshiete](https://github.com/oshiete), using ASP.NET Core, Ruby on Rails, and more.
 - 🌱 I’m currently learning:
   * Japanese
   * Ruby/Rails
