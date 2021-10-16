@@ -6,12 +6,10 @@ I write code primarily using C#, JavaScript, C/C++, and Java.
 
 - 🔭 I’m currently working on:
   * A game using C# and FNA (using .NET 6.0 and Visual Studio 2022)
-  * A project, [@oshiete](https://github.com/oshiete), using ASP.NET Core, Ruby on Rails, Node, TypeScript, and more.
+  * A project, [@oshiete](https://github.com/oshiete), using ASP.NET Core, Node, TypeScript, Ruby, DynamoDB, and more.
 - 🌱 I’m currently learning:
   * Japanese
   * Ruby/Rails
-  * iOS with SwiftUI
-  * Rust
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoCodingJosh&theme=tokyonight&layout=compact&langs_count=8)
 
