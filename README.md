@@ -1,8 +1,8 @@
 ### Yo! 👋
 
-I'm Josh, I'm a software engineering consultant.
+I'm Josh, I'm a software engineer.
 
-I write code primarily using C#, JavaScript, C/C++, Java, and PHP.
+I write code primarily using C#, JavaScript, C/C++, and Java.
 
 - 🔭 I’m currently working on:
   * A game using C# and FNA (using .NET 6.0 and Visual Studio 2022)
