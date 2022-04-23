@@ -5,7 +5,7 @@ I'm Josh, I'm a software engineer.
 I write code primarily using C#, JavaScript, C/C++, Python, and Java.
 
 - 🔭 I’m currently working on:
-  * A project, [@oshiete](https://github.com/oshiete), using ASP.NET Core, Node.js, Cosmos DB, and more.
+  * A project, [@oshiete](https://github.com/oshiete), using ASP.NET Core, Node.js, PostgreSQL, and more.
 - 🌱 I’m currently learning:
   * Japanese
   * Ruby/Rails
