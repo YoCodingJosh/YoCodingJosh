@@ -5,10 +5,12 @@ I'm Josh, I'm a software engineer.
 I write code primarily using C#, JavaScript, C/C++, Python, and Java.
 
 - 🔭 I’m currently working on:
-  * A project, [@oshiete](https://github.com/oshiete), using ASP.NET Core, Node.js, PostgreSQL, and more.
+  * A social network, [@oshiete](https://github.com/oshiete), using Node.js, ASP.NET Core, PostgreSQL, and more.
+    * suffering a little bit of analysis paralysis over how to architect it lol
+  * A small arkanoid-like game using C# and FNA
 - 🌱 I’m currently learning:
-  * Japanese
   * Ruby/Rails
+  * Japanese
 
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
