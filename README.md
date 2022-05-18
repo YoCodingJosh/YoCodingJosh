@@ -7,7 +7,7 @@ I write code primarily using C#, JavaScript, C/C++, Python, and Java.
 - 🔭 I’m currently working on:
   * A social network, [@oshiete](https://github.com/oshiete), using Node.js, ASP.NET Core, PostgreSQL, and more.
     * suffering a little bit of analysis paralysis over how to architect it lol
-  * A small arkanoid-like game using C# and FNA
+  * A small/simple arkanoid-like game using Vue.js with TypeScript
 - 🌱 I’m currently learning:
   * Ruby/Rails
   * Japanese
