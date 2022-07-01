@@ -6,9 +6,8 @@ I write code primarily using C#, JavaScript, C/C++, Python, and Java.
 
 - 🔭 I’m currently working on:
   * A social network, [@oshiete](https://github.com/oshiete), using Node.js, Passport.js, PostgreSQL, and more.
-    * suffering a little bit of analysis paralysis over how to architect it lol
   * A small/simple arkanoid-like game using Vue.js with TypeScript: https://github.com/YoCodingJosh/brick-blaster
-    * And a C++ port using SDL2
+    * And a C++ port using SDL2 for Windows, Mac, Linux, HTML5, and (hopefully) Nintendo Switch.
 - 🌱 I’m currently learning:
   * Japanese
 
