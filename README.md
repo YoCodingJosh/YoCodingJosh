@@ -9,6 +9,7 @@ I write code primarily using C#, JavaScript, C/C++, Python, and Java.
   * A small/simple arkanoid-like game using Vue.js with TypeScript: https://github.com/YoCodingJosh/brick-blaster
     * And a more featured C++ port using SDL2 for Windows, Mac, Linux, HTML5, and (hopefully) Nintendo Switch.
 - 🌱 I’m currently learning:
+  * Ruby/Rails
   * Japanese
 
 <!--
