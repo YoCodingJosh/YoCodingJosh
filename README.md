@@ -2,12 +2,12 @@
 
 I'm Josh, I'm a software engineer.
 
-I write code primarily using C#, JavaScript, C/C++, Python, and Java.
+I write code primarily using C#, JavaScript, C/C++, Java, and Python.
 
 - 🔭 I’m currently working on:
-  * A social network, [@oshiete](https://github.com/oshiete), using Node.js, Passport.js, PostgreSQL, and more.
-  * A small/simple arkanoid-like game using Vue.js with TypeScript: https://github.com/YoCodingJosh/brick-blaster
-    * And a more featured C++ port using SDL2 for Windows, Mac, Linux, HTML5, and (hopefully) Nintendo Switch.
+  * An arkanoid-like game written in C++ using SDL2 for Windows, macOS, Linux, HTML5, and (hopefully) Nintendo Switch (and other consoles)
+    * This will a higher-performance and more featured port of: https://github.com/YoCodingJosh/brick-blaster
+  * A social network, [@oshiete](https://github.com/oshiete), using C#, Node.js, and Ruby on Rails.
 - 🌱 I’m currently learning:
   * Ruby/Rails
   * Japanese
