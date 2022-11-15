@@ -11,8 +11,9 @@ I'm trying to make the world a better place, one line of code at a time.
   * An arkanoid-like game written in C++ using SDL2 for Windows, macOS, Linux, HTML5, and (hopefully) Nintendo Switch (and other consoles)
     * This will a higher-performance (Vulkan/DX12) and more featured port of: https://github.com/YoCodingJosh/brick-blaster
 - 🌱 I’m currently learning:
-  * Ruby with Rails
+  * Ruby and Rails
   * Japanese
+  * React
 
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
