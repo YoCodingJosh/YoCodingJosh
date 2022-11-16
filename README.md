@@ -12,7 +12,7 @@ I'm trying to make the world a better place, one line of code at a time.
     * This will a higher-performance (Vulkan/DX12) and more featured port of: https://github.com/YoCodingJosh/brick-blaster
 - 🌱 I’m currently learning:
   * Ruby and Rails
-  * Japanese
+  * 日本語
   * React
 
 <!--
