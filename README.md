@@ -13,7 +13,6 @@ I'm trying to make the world a better place, one line of code at a time.
 - 🌱 I’m currently learning:
   * Ruby and Rails
   * 日本語
-  * React
 
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
