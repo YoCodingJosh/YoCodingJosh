@@ -10,6 +10,7 @@ I'm trying to make the world a better place, one line of code at a time.
   * A social network, [@oshiete](https://github.com/oshiete), using Ruby on Rails.
   * An arkanoid-like game written in C++ using SDL2 for Windows, macOS, Linux, HTML5, and (hopefully) Nintendo Switch (and other consoles)
     * This will a higher-performance (Vulkan/DX12) and more featured port of: https://github.com/YoCodingJosh/brick-blaster
+  * Another game that's a bit cooler using the same tech/engine as above. 😎
 - 🌱 I’m currently learning:
   * Ruby and Rails
   * 日本語
