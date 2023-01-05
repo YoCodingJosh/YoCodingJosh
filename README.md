@@ -2,7 +2,7 @@
 
 I'm Josh, I'm a software engineer and consultant.
 
-I write code primarily using C#, JavaScript/TypeScript, C/C++, Ruby, and Java.
+I write code primarily using JavaScript/TypeScript, C#, C/C++, Ruby, and Java.
 
 I'm trying to make the world a better place, one line of code at a time.
 
