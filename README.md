@@ -1,4 +1,4 @@
-### Yo! 👋
+## Yo! 👋
 
 I'm Josh, I'm a software engineer and consultant.
 
