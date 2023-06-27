@@ -8,10 +8,7 @@ I'm trying to make the world a better place, one line of code at a time.
 
 - 🔭 I’m currently working on:
   * A social network, [@oshiete](https://github.com/oshiete), using Ruby on Rails
-  * An arkanoid-like game written in C++ using SDL2 for Windows, macOS, Linux, HTML5, and (hopefully) Nintendo Switch (and other consoles)
-    * This will a higher-performance (Vulkan/DirectX12) and more featured port of: https://github.com/YoCodingJosh/brick-blaster
-  * An action shooter game using the same tech/engine as above 😎
-  * A developer tool using Vue and Rust
+  * Several game concepts. Some using C++ with SDL2 and some using C# using FNA.
 - 🌱 I’m currently learning:
   * Ruby and Rails
   * Rust
