@@ -1,6 +1,6 @@
 ## Yo! 👋
 
-I'm Josh, I'm a software engineer and consultant.
+I'm Josh, and I'm a software engineer!
 
 I write code primarily using JavaScript/TypeScript, C#, C/C++, Ruby, Rust, and Java.
 
