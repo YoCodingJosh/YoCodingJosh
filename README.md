@@ -1,17 +1,16 @@
 ## Yo! 👋
 
-I'm Josh, and I'm a software engineer!
+I'm Josh, and I'm a software engineer. Nice to meet ya!
 
-I write code primarily using JavaScript/TypeScript, C#, C/C++, Ruby, Rust, and Java.
+I write code primarily using TypeScript/JavaScript, C#, C/C++, Ruby, and Java.
 
 I'm trying to make the world a better place, one line of code at a time.
 
 - 🔭 I’m currently working on:
   * A social network, [@oshiete](https://github.com/oshiete), using Ruby on Rails
-  * Several game concepts. Some using C++ with SDL2 and some using C# using FNA.
+  * Several game concepts. Some using C++ with SDL2 and some using C# using FNA
 - 🌱 I’m currently learning:
-  * Ruby and Rails
-  * Rust
+  * Ruby on Rails
   * 日本語
 
 <!--
