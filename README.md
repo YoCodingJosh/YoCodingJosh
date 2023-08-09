@@ -1,6 +1,8 @@
 ## Yo! 👋
 
-I'm Josh, and I'm a software engineer. Nice to meet ya!
+I'm Josh, and I'm a software engineer and entrepreneur. Nice to meet ya!
+
+My day job is a Ruby on Rails Engineer at WellSky. My side gig is @HYPEWORKS.
 
 I write code primarily using TypeScript/JavaScript, C#, C/C++, Ruby, and Java.
 
