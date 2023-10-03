@@ -6,6 +6,20 @@ My day job is a Ruby on Rails Engineer at [WellSky](https://github.com/mediwarei
 
 I write code primarily using TypeScript/JavaScript, C#, C/C++, Ruby, and Java.
 
+Basic stats about me:
+
+ - ISFP-T
+ - 20-something years old
+ - Somewhat of a college dropout
+   * I have an Associate of Science in Computer Information Systems
+   * Dropped out of Bachelor's program
+ - Hobbies include:
+   * Investing 💹
+   * Watching anime 📺
+   * Playing FPS and retro games (SNES, GB, N64, PS1, PC) 🎮
+   * Writing code ⌨️
+   * Learning new things 🧠
+
 I'm trying to make the world a better place, one line of code at a time.
 
 - 🔭 I’m currently working on:
