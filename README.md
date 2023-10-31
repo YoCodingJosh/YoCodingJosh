@@ -20,12 +20,12 @@ Basic stats about me:
    * Writing code ⌨️
    * Learning new things 🧠
 
-I'm trying to make the world a better place, one line of code at a time.
+I'm just trying to make the world a better place, one line of code at a time.
 
 - 🔭 I’m currently working on:
   * Productivity software powered by AI
   * A social network, [@oshiete](https://github.com/oshiete)
-  * Several game concepts. Some using C++ with SDL2 and some using C# using FNA
+  * Several game concepts. Some using C++ with SDL2, C# using FNA, and some using TypeScript and WebGL.
 - 🌱 I’m currently learning:
   * Ruby on Rails
   * 日本語
