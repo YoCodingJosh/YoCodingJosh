@@ -23,8 +23,10 @@ Basic stats about me:
 I'm just trying to make the world a better place, one line of code at a time.
 
 - 🔭 I’m currently working on:
+  * EMR software at my day job using Ruby on Rails, Angular, Postgres, and GCP.
   * MyAnimeList stats app using Vue 3 and Hono with Cloudflare Workers
   * Productivity software powered by AI using Next.js and Supabase
+  * and a bunch of other stuff
   <!-- * A social network, [@oshiete](https://github.com/oshiete)
   * Several game concepts. Some using C++ with SDL2, C# using FNA, and some using TypeScript and WebGL. -->
 - 🌱 I’m currently learning:
