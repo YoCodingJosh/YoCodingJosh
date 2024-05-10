@@ -28,6 +28,7 @@ Basic stats about me:
   * Several game concepts. Some using C++ with SDL2, C# using FNA, and some using TypeScript and WebGL. -->
 - 🌱 I’m currently learning:
   * 日本語
+  * Nuxt
 
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
