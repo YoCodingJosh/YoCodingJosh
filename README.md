@@ -2,7 +2,7 @@
 
 I'm Josh, and I'm a software engineer and entrepreneur. Nice to meet ya!
 
-My day job is a Ruby on Rails Developer at [WellSky](https://github.com/mediwareinc). My side gig is launching [HYPEWORKS](https://github.com/HYPEWORKS).
+I'm a software engineer in the day and I'm working on launching [HYPEWORKS](https://github.com/HYPEWORKS) at night.
 
 I'm just trying to make the world a better place, one line of code at a time!
 
