@@ -20,7 +20,6 @@ Basic info about me:
    * Learning new technologies 🧠
 
 - 🔭 I’m currently working on:
-  * EMR software at my day job using Ruby on Rails, Angular, PostgreSQL, and GCP.
   * MyAnimeList stats app using Vue 3 and Hono with Cloudflare Workers
   <!-- * Productivity software powered by AI using Next.js and Cloudflare Pages
   * and a bunch of other cool stuff!
