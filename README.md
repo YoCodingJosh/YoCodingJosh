@@ -12,6 +12,7 @@ Basic info about me:
 
  - [ISFP-T](https://www.16personalities.com/isfp-personality)
  - Associate of Science in Computer Information Systems
+ - Pursuing Bachelor of Science in Software Engineering
  - Hobbies include:
    * Writing code ⌨️
    * Watching anime 📺
