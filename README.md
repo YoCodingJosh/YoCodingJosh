@@ -22,6 +22,7 @@ Basic info about me:
 
 - 🔭 I’m currently working on:
   * MyAnimeList stats app using Vue 3 and Hono with Cloudflare Workers
+  * Something using Next.js, Supabase, and Cloudflare Pages
   <!-- * Productivity software powered by AI using Next.js and Cloudflare Pages
   * and a bunch of other cool stuff!
   * A social network, [@oshiete](https://github.com/oshiete)
