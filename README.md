@@ -2,11 +2,11 @@
 
 I'm Josh, and I'm a software engineer and entrepreneur. Nice to meet ya!
 
-I'm a software engineer in the day and I'm working on launching [HYPEWORKS](https://github.com/HYPEWORKS) at night.
+I'm a React developer at an education non-profit in the day, and I'm working on launching [HYPEWORKS](https://github.com/HYPEWORKS) at night.
 
 I'm just trying to make the world a better place, one line of code at a time!
 
-I write code primarily using TypeScript/JavaScript, C#, C/C++, Ruby, Python, and Java. Polyglots unite!
+I write code primarily using TypeScript/JavaScript, C#, C/C++, Ruby, Python, and Java.
 
 Basic info about me:
 
@@ -21,14 +21,14 @@ Basic info about me:
    * Learning new technologies 🧠
 
 - 🔭 I’m currently working on:
-  * MyAnimeList stats app using Vue 3 and Hono with Cloudflare Workers
   * Something using Next.js, Supabase, and Cloudflare Pages
+  * MyAnimeList stats app using Vue 3 and Hono with Cloudflare Workers
   <!-- * Productivity software powered by AI using Next.js and Cloudflare Pages
   * and a bunch of other cool stuff!
   * A social network, [@oshiete](https://github.com/oshiete)
   * Several game concepts. Some using C++ with SDL2, C# using FNA, and some using TypeScript and WebGL. -->
 - 🌱 I’m currently learning:
-  * 日本語
+  * Japanese/日本語 (こんにちは！)
 
 <!--
 **YoCodingJosh/YoCodingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
