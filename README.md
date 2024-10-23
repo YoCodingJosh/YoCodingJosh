@@ -21,7 +21,7 @@ Basic info about me:
    * Learning new technologies 🧠
 
 - 🔭 I’m currently working on:
-  * Something using Next.js, Supabase, and Cloudflare Pages
+  * Something using React, Hono, Cloudflare Pages, Supabase, and OpenAI
   * MyAnimeList stats app using Vue 3 and Hono with Cloudflare Workers
   <!-- * Productivity software powered by AI using Next.js and Cloudflare Pages
   * and a bunch of other cool stuff!
