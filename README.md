@@ -5,7 +5,7 @@ I'm **Josh Kennedy**, a passionate software engineer and entrepreneur on a missi
 By day, I'm building tools and platforms for an education non-profit. By night, I'm the driving force behind [**HYPEWORKS**](https://github.com/HYPEWORKS), crafting the future of web development and AI integration. 
 
 ### 💼 What I'm working on:
-- 🌐 Building an AI-infused productivity app with **React, Hono, Cloudflare Pages, Supabase, and OpenAI**
+- 🌐 Building an **AI-infused productivity app** with **React, Hono, Cloudflare Pages, Supabase, and OpenAI**
 - 📊 Crafting a **MyAnimeList stats app** with **Vue 3** and **Cloudflare Workers**
 - 🌍 Developing [**@oshiete**](https://github.com/oshiete), a unique social network project
 - 🎮 Experimenting with various **game dev concepts** using **C++, SDL2**, **C# with FNA**, and **TypeScript/WebGL**
