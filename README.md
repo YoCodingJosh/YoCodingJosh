@@ -11,6 +11,7 @@ By day, I'm building tools and platforms for an education non-profit. By night, 
 - 🎮 Experimenting with various **game dev concepts** using **C++, SDL2**, **C# with FNA**, and **TypeScript/WebGL**
 
 ### 🚀 Currently learning:
+- **Go** (exploring back-end development and game dev with Ebitengine)
 - 📚 **日本語** (Japanese) — こんにちは！
 
 ### 🧑‍💻 Languages & Technologies I love:
@@ -26,4 +27,4 @@ By day, I'm building tools and platforms for an education non-profit. By night, 
   - Exploring the world of finance and investments 💰
   - Learning about emerging tech 🔧
 
-Let's connect and build something awesome together! 💡
+Let's connect and build something awesome together! 💡💪
