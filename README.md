@@ -15,7 +15,7 @@ By day, I'm building tools and platforms for an education non-profit. By night, 
 - 📚 **日本語** (Japanese) — こんにちは！
 
 ### 🧑‍💻 Languages & Technologies I love:
-- **TypeScript/JavaScript**, **C/C++**, **C#**, **Ruby**, **Python**, **Java**
+- **TypeScript/JavaScript**, **Go**, **C/C++**, **C#**, **Ruby**, **Python**, **Java**
 
 ### ⚡ Quick Facts:
 - 🎯 **[ISFP-T](https://www.16personalities.com/isfp-personality)** 
