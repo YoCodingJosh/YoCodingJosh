@@ -6,9 +6,9 @@ By day, I'm building tools and platforms for an education non-profit. By night, 
 
 ### 💼 What I'm working on:
 - 🌐 Building an **AI-infused productivity app** with **React, Hono, Cloudflare Pages, Supabase, and OpenAI**
-- 📊 Crafting a **MyAnimeList stats app** with **Vue 3** and **Cloudflare Workers**
+- 📊 Crafting a **MyAnimeList stats app** with **React, Hono** and **Cloudflare Workers**
 - 🌍 Developing [**@oshiete**](https://github.com/oshiete), a unique social network project
-- 🎮 Experimenting with various **game dev concepts** using **C++, SDL2**, **C# with FNA**, and **TypeScript/WebGL**
+- 🎮 Experimenting with various **game dev concepts** using **Go, C++, SDL2**, **C# with FNA**, and **TypeScript/WebGL**
 - 📺🗻 秘密のアニメ動画ストリーミングプラットフォームは研究開発中です（TypeScriptとGoを使用）
 
 ### 🚀 Currently learning:
