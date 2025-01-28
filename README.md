@@ -10,6 +10,7 @@ By day, I'm building tools and platforms for an education non-profit. By night, 
 - 🌍 Developing [**@oshiete**](https://github.com/oshiete), a unique social network project
 - 🎮 Experimenting with various **game dev concepts** using **Go, C++, SDL2**, **C# with FNA**, and **TypeScript/WebGL**
 - 📺🗻 秘密のアニメ動画ストリーミングプラットフォームは研究開発中です（TypeScriptとGoを使用）
+- 🧰🛠️ A developer utility using **TypeScript and Go**
 
 ### 🚀 Currently learning:
 - **Go** (exploring back-end development and game dev with Ebitengine)
