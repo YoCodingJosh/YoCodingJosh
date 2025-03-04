@@ -18,7 +18,7 @@ By day, I'm building tools and platforms for an education non-profit. By night, 
 - **日本語** - こんにちは! よろしくお願いします!
 
 ### 🧑‍💻 Tech I love:
-- **TypeScript**, **Go**, **C**, **C#**, **Ruby**, **React**, **Vue**, **Angular**, **Cloudflare Workers/Pages**, **PostgreSQL**
+- **TypeScript**, **Go**, **React**, **Elixir**, **C#**, **C**, **Ruby**, **Vue**, **Angular**, **Cloudflare Workers/Pages**, **PostgreSQL**
 
 ### ⚡ Quick Facts:
 - 🎯 **[ISFP-T](https://www.16personalities.com/isfp-personality)** 
