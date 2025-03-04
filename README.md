@@ -7,7 +7,7 @@ When I'm not coding, you'll likely find me dreaming up new tech ideas, diving in
 By day, I'm building tools and platforms for an education non-profit. By night, I'm the driving force behind [**HYPEWORKS**](https://github.com/HYPEWORKS).
 
 ### 💼 What I'm working on:
-- 📺 **Video streaming platform** - TypeScript, React, Go (R&D)
+- 📺 **Video streaming platform (R&D)** - TypeScript, React, Go, Cloudflare Workers, Supabase
 - 📊 **MyAnimeList stats app** - React, Hono, Cloudflare Workers
 - 🌐 **AI productivity app** - React, Hono, Cloudflare Pages, Supabase, OpenAI
 - 🧰 **Developer utility** - TypeScript, Go
