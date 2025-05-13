@@ -11,7 +11,7 @@ By day, I'm building tools and platforms for an education non-profit. By night, 
 - 📊 **MyAnimeList stats app** - React, Hono, Cloudflare Workers
 - 🌐 **AI productivity app** - React, Hono, Cloudflare Pages, Supabase, OpenAI
 - 🧰 **Developer utility** - TypeScript, Go
-- 🎮 **Game dev experiments** - C++, SDL2, C#/FNA, Go, TypeScript/Canvas/WebGL
+- 🎮 **Game dev experiments** - C/C++, SDL2, C#/FNA, Go, TypeScript/Canvas/WebGL
 
 ### 🚀 Learning:
 - **Go**
