@@ -2,7 +2,7 @@
 
 I'm **Josh Kennedy**, a passionate software engineer and entrepreneur on a mission to change the world, one line of code at a time.
 
-By day, I'm a full stack developer for a printing company. By night, I'm the driving force behind [**HYPEWORKS**](https://github.com/HYPEWORKS).
+By day, I'm a full stack developer for a printing/publishing company. By night, I'm the driving force behind [**HYPEWORKS**](https://github.com/HYPEWORKS).
 
 When I'm not coding, you'll likely find me dreaming up new tech ideas, diving into the latest anime, or leveling up in some retro games.
 
