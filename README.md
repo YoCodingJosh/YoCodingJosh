@@ -9,6 +9,7 @@ When I'm not coding, you'll likely find me dreaming up new tech ideas, diving in
 ### 💼 What I'm working on:
 - 📺 **Video streaming platform (R&D)** - Astro SSR, TypeScript, React, Go, Cloudflare Workers, Hono, Supabase
 - 🌐 **AI productivity app** - React, Hono, Cloudflare Pages, Supabase, OpenAI
+- ⚙️ **Script interpreter** - TypeScript, Bun
 - 🧰 **Developer utility** - TypeScript, Go
 - 🎮 **Game dev experiments** - C/C++, SDL2, C#/FNA, Go, TypeScript/Canvas/WebGL
 - 📊 **MyAnimeList stats app** - React, Hono, Cloudflare Workers
