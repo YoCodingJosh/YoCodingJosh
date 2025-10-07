@@ -7,13 +7,14 @@ By day, I'm a full stack developer for a printing/publishing company. By night, 
 When I'm not coding, you'll likely find me dreaming up new tech ideas, diving into the latest anime, or leveling up in some retro games.
 
 ### 💼 What I'm working on:
-- 📺 **Video streaming platform** - Astro SSR, TypeScript, React, Go, Cloudflare Workers, Hono, Supabase
+- 📺 **Video streaming platform** - Astro SSR, TypeScript, React, Go, Cloudflare Workers, Hono, Postgres, Terraform
 - ⚙️ **Script interpreter** - TypeScript, Bun
 - 🧰 **Developer utility** - TypeScript, Go
 - 🎮 **Game dev experiments** - C/C++, SDL2, C#/FNA, Go, TypeScript/Canvas/WebGL
 
 ### 🚀 Learning:
 - **Go**
+- **Terraform**
 - **日本語** - はじめまして！ よろしくお願いします!
 
 ### 🧑‍💻 Tech I love:
