@@ -8,7 +8,7 @@ When I'm not coding, you'll likely find me dreaming up new tech ideas, diving in
 
 ### 💼 What I'm working on:
 - 📺 **Video streaming platform** - Astro SSR, TypeScript, React, Go, Cloudflare Workers, Hono, Postgres, Terraform
-- ⚙️ **Script interpreter** - TypeScript, Bun
+- ⚙️ **Script interpreter** - TypeScript
 - 🧰 **Developer utility** - TypeScript, Go
 - 🎮 **Game dev experiments** - C/C++, SDL2, C#/FNA, Go, TypeScript/Canvas/WebGL
 
@@ -19,6 +19,8 @@ When I'm not coding, you'll likely find me dreaming up new tech ideas, diving in
 
 ### 🧑‍💻 Tech I love:
 - **TypeScript**, **Go**, **React**, **C#**, **C/C++**, **Vue**, **Cloudflare Workers**, **PostgreSQL**
+
+I use macOS at work, and Linux (Fedora KDE) and some macOS at home.
 
 ### ⚡ Quick Facts:
 - 🎯 **[ISFP-T](https://www.16personalities.com/isfp-personality)** 
