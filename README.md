@@ -8,6 +8,7 @@ When I'm not coding, you'll likely find me dreaming up new tech ideas, diving in
 
 ### 💼 What I'm working on:
 - 📺 **Video streaming platform** - Astro SSR, TypeScript, React, Go, Cloudflare Workers, Hono, Postgres, Terraform
+- 🔧 **OS/Kernel** - C, Assembly
 - ⚙️ **Script interpreter** - TypeScript
 - 🧰 **Developer utility** - TypeScript, Go
 - 🎮 **Game dev experiments** - C/C++, SDL2, C#/FNA, Go, TypeScript/Canvas/WebGL
