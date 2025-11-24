@@ -25,7 +25,7 @@ I use macOS at work, and Linux (Fedora KDE) and some macOS at home.
 
 ### ⚡ Quick Facts:
 - 🎯 **[ISFP-T](https://www.16personalities.com/isfp-personality)** 
-- 🎓 Associate's in **Computer Information Systems**, pursuing a **Bachelor's in Software Engineering**
+- 🎓 Associate's degree in **Computer Information Systems**
 - 💹 Hobbies: Coding stuff that sparks joy, anime/manga, FPS & retro gaming (SNES, GB, N64, PS1, PC), finance & investing
 
 Let's connect and build something awesome together! 💡💪
