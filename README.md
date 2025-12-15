@@ -7,7 +7,7 @@ By day, I'm a full stack developer for a printing/publishing company. By night, 
 When I'm not coding, you'll likely find me dreaming up new tech ideas, diving into the latest anime, or leveling up in some retro games.
 
 ### 💼 What I'm working on:
-- 📺 **Video streaming platform** - TanStack Start, Hono, TypeScript, React, Cloudflare Workers, Hono, Postgres, Terraform
+- 📺 **Video streaming platform** - TanStack Start, Hono, TypeScript, React, Cloudflare Workers, Postgres, Terraform
 - 🔧 **OS/Kernel** - C, Assembly
 - ⚙️ **Script interpreter** - TypeScript
 - 🧰 **Developer utility** - TypeScript, Go
