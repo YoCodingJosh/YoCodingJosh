@@ -15,6 +15,7 @@ When I'm not coding, you'll likely find me dreaming up new tech ideas, diving in
 
 ### 🚀 Learning:
 - **Go**
+- Svelte
 - **Terraform**
 - **日本語** - はじめまして！ よろしくお願いします!
 
