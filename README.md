@@ -24,10 +24,8 @@ ReactとTypeScriptを中心に実務経験のあるフルスタックソフト�
 OS: macOS (work) · Fedora KDE / macOS (personal)
 
 ### Current Projects
-- Video streaming platform (TypeScript, React, Hono, TanStack Start, Cloudflare Workers, Postgres)
+- Video streaming platform (TypeScript, React, TanStack Start, Hono, Cloudflare Workers, Postgres)
 - OS/Kernel experiments (C, Assembly)
-- Script interpreter (TypeScript)
-- Developer utility (TypeScript, Go)
 - Game dev (C/C++, SDL2, C#/FNA, Go, Canvas/WebGL)
 
 ### Learning
