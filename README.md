@@ -1,26 +1,13 @@
 ## Josh Kennedy / ジョシュ・ケネディ
 
-**English**
-
 Software Architect & Full-Stack Engineer with professional experience in React, TypeScript, and modern web technologies.
-I specialize in designing scalable systems, building performant applications, and turning ideas into real, usable products.
+I specialize in designing scalable systems, building performant applications, and turning ideas into real products.
 
-Passionate about creating tools, experimenting with low-level systems, and exploring new technologies.
+Passionate about tools, low-level systems, and exploring new tech.
+
+> ReactとTypeScriptを中心としたフルスタックエンジニアです。はじめまして！よろしくお願いします。
 
 Side projects: [**HYPEWORKS**](https://github.com/HYPEWORKS)
-
----
-
-**日本語**
-
-ReactとTypeScriptを中心に、モダンなWeb技術を用いた実務経験のあるソフトウェアアーキテクト兼フルスタックエンジニアです。
-スケーラブルなシステム設計や高性能なアプリケーション開発、アイデアを実用的なプロダクトにすることを得意としています。
-
-ツール開発や低レイヤー技術の探求、新しい技術の学習が好きです。
-
-サイドプロジェクト: [**HYPEWORKS**](https://github.com/HYPEWORKS)
-
-はじめまして！よろしくお願いします。
 
 ---
 
@@ -42,13 +29,15 @@ ReactとTypeScriptを中心に、モダンなWeb技術を用いた実務経験�
 ### 🚀 Current Projects
 
 * Video streaming platform (TypeScript, React, TanStack Start, Hono, Cloudflare Workers, PostgreSQL)
-* OS / Kernel experiments (C, Assembly)
-* Game development (C/C++, SDL2, C#/FNA, Go, Canvas/WebGL)
+* Coding agent
+* Game development (C/C++, SDL2, C#/FNA, Go, WebGL)
+* OS / Kernel experiments
 
 ---
 
 ### 📚 Learning
 
+* OCaml
 * OS Development
 * 日本語
 
@@ -56,10 +45,10 @@ ReactとTypeScriptを中心に、モダンなWeb技術を用いた実務経験�
 
 ### 👤 About
 
-* Personality: [ISFP-T](https://www.16personalities.com/isfp-personality)
-* Education: Associate’s in Computer Information Systems
-* Interests: Anime, Manga, Retro Games, Finance
+* **Personality**: [ISFP-T](https://www.16personalities.com/isfp-personality)
+* **Education**: Associate's in Computer Information Systems
+* **Interests**: Anime, Manga, Retro Games, Finance
 
 ---
 
-💬 Open to collaboration -- feel free to connect!
+💬 Open to collaboration — feel free to connect!
